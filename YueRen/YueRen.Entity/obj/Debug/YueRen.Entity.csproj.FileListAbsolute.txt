@@ -1,0 +1,10 @@
+E:\YueRen\YueRen\YueRen.Entity\bin\Debug\YueRen.Entity.dll
+E:\YueRen\YueRen\YueRen.Entity\bin\Debug\YueRen.Entity.pdb
+E:\YueRen\YueRen\YueRen.Entity\obj\Debug\YueRen.Entity.csprojResolveAssemblyReference.cache
+E:\YueRen\YueRen\YueRen.Entity\obj\Debug\YueRen.Entity.dll
+E:\YueRen\YueRen\YueRen.Entity\obj\Debug\YueRen.Entity.pdb
+F:\MyProject\YueRen\YueRen.Entity\bin\Debug\YueRen.Entity.dll
+F:\MyProject\YueRen\YueRen.Entity\bin\Debug\YueRen.Entity.pdb
+F:\MyProject\YueRen\YueRen.Entity\obj\Debug\YueRen.Entity.csprojResolveAssemblyReference.cache
+F:\MyProject\YueRen\YueRen.Entity\obj\Debug\YueRen.Entity.dll
+F:\MyProject\YueRen\YueRen.Entity\obj\Debug\YueRen.Entity.pdb

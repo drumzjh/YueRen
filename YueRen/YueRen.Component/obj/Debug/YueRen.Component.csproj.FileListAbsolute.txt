@@ -1,0 +1,4 @@
+F:\MyProject\YueRen\YueRen.Component\bin\Debug\YueRen.Component.dll
+F:\MyProject\YueRen\YueRen.Component\bin\Debug\YueRen.Component.pdb
+F:\MyProject\YueRen\YueRen.Component\obj\Debug\YueRen.Component.dll
+F:\MyProject\YueRen\YueRen.Component\obj\Debug\YueRen.Component.pdb

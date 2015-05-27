@@ -1,0 +1,4 @@
+F:\MyProject\YueRen\YueRen.MSSqlDAL\bin\Debug\YueRen.MSSqlDAL.dll
+F:\MyProject\YueRen\YueRen.MSSqlDAL\bin\Debug\YueRen.MSSqlDAL.pdb
+F:\MyProject\YueRen\YueRen.MSSqlDAL\obj\Debug\YueRen.MSSqlDAL.dll
+F:\MyProject\YueRen\YueRen.MSSqlDAL\obj\Debug\YueRen.MSSqlDAL.pdb

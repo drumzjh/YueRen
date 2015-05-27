@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MusicStyles>
+  <MusicStyle>
+    <EnglishName>Classical</EnglishName>
+    <ChineseName>古典音乐</ChineseName>
+    <Code>1</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Acappella</EnglishName>
+    <ChineseName>无伴奏音乐</ChineseName>
+    <Code>101</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Classical Pop</EnglishName>
+    <ChineseName>古典流行</ChineseName>
+    <Code>102</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Modern Classical</EnglishName>
+    <ChineseName>摩登古典</ChineseName>
+    <Code>103</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Opera/Classical Crossover</EnglishName>
+    <ChineseName>歌剧/混合古典</ChineseName>
+    <Code>104</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Classical</EnglishName>
+    <ChineseName>古典</ChineseName>
+    <Code>105</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Medieval</EnglishName>
+    <ChineseName>中世纪</ChineseName>
+    <Code>106</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Neo-Classical</EnglishName>
+    <ChineseName>新古典</ChineseName>
+    <Code>107</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Country</EnglishName>
+    <ChineseName>乡村音乐</ChineseName>
+    <Code>2</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Bluegrass</EnglishName>
+    <ChineseName>Bluegrass</ChineseName>
+    <Code>201</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Country</EnglishName>
+    <ChineseName>乡村</ChineseName>
+    <Code>202</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Country Rock</EnglishName>
+    <ChineseName>乡村摇滚</ChineseName>
+    <Code>203</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Honky Tonk</EnglishName>
+    <ChineseName>Honky Tonk</ChineseName>
+    <Code>204</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Contemporary Country</EnglishName>
+    <ChineseName>当代乡村</ChineseName>
+    <Code>205</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Country Pop</EnglishName>
+    <ChineseName>乡村流行</ChineseName>
+    <Code>206</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Countrypolitan</EnglishName>
+    <ChineseName>城市乡村</ChineseName>
+    <Code>207</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Traditional Country</EnglishName>
+    <ChineseName>传统乡村</ChineseName>
+    <Code>208</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Electronic</EnglishName>
+    <ChineseName>电子音乐</ChineseName>
+    <Code>3</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Abstract</EnglishName>
+    <ChineseName>抽象</ChineseName>
+    <Code>301</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Acid House</EnglishName>
+    <ChineseName>Acid House</ChineseName>
+    <Code>302</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Acid Techno</EnglishName>
+    <ChineseName>Acid Techno</ChineseName>
+    <Code>303</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Big Beat</EnglishName>
+    <ChineseName>Big Beat</ChineseName>
+    <Code>304</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Breakcore</EnglishName>
+    <ChineseName>碎核</ChineseName>
+    <Code>305</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Chiptune</EnglishName>
+    <ChineseName>Chiptune</ChineseName>
+    <Code>306</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Dance/Club</EnglishName>
+    <ChineseName>舞曲</ChineseName>
+    <Code>307</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Disco</EnglishName>
+    <ChineseName>迪斯科</ChineseName>
+    <Code>308</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Drum &amp; Bass</EnglishName>
+    <ChineseName>鼓和贝斯</ChineseName>
+    <Code>309</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Dubstep</EnglishName>
+    <ChineseName>Dubstep</ChineseName>
+    <Code>310</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Electro</EnglishName>
+    <ChineseName>Electro</ChineseName>
+    <Code>311</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Future Jazz</EnglishName>
+    <ChineseName>未来爵士</ChineseName>
+    <Code>312</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Goa/Psy-Trance</EnglishName>
+    <ChineseName>谜幻Trance</ChineseName>
+    <Code>313</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Happy Hardcore</EnglishName>
+    <ChineseName>欢快硬核</ChineseName>
+    <Code>314</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Hard Techno</EnglishName>
+    <ChineseName>硬Techno</ChineseName>
+    <Code>315</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Hardcore/Gabber </EnglishName>
+    <ChineseName>电子硬核</ChineseName>
+    <Code>316</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>House</EnglishName>
+    <ChineseName>House</ChineseName>
+    <Code>317</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Industrial</EnglishName>
+    <ChineseName>工业电子</ChineseName>
+    <Code>318</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Jungle</EnglishName>
+    <ChineseName>丛林</ChineseName>
+    <Code>319</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Minimal</EnglishName>
+    <ChineseName>极简派</ChineseName>
+    <Code>320</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Progressive House</EnglishName>
+    <ChineseName>前卫House</ChineseName>
+    <Code>321</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Synth-Pop</EnglishName>
+    <ChineseName>合成器流行</ChineseName>
+    <Code>322</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Techno</EnglishName>
+    <ChineseName>科技舞曲</ChineseName>
+    <Code>323</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Tribal</EnglishName>
+    <ChineseName>部落</ChineseName>
+    <Code>324</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Trip-Hop</EnglishName>
+    <ChineseName>Trip-Hop</ChineseName>
+    <Code>325</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Acid</EnglishName>
+    <ChineseName>Acid</ChineseName>
+    <Code>326</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Acid Jazz</EnglishName>
+    <ChineseName>Acid Jazz</ChineseName>
+    <Code>327</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Ambient/Illbient</EnglishName>
+    <ChineseName>氛围</ChineseName>
+    <Code>328</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Break Beat</EnglishName>
+    <ChineseName>碎拍</ChineseName>
+    <Code>329</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Breaks</EnglishName>
+    <ChineseName>Breaks</ChineseName>
+    <Code>330</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Cut-up/DJ/Turntablism</EnglishName>
+    <ChineseName>Cut-up/DJ/Turntablism</ChineseName>
+    <Code>331</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Deep House</EnglishName>
+    <ChineseName>Deep House</ChineseName>
+    <Code>332</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Downtempo</EnglishName>
+    <ChineseName>慢拍电子乐</ChineseName>
+    <Code>333</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Dub</EnglishName>
+    <ChineseName>Dub</ChineseName>
+    <Code>334</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>EBM</EnglishName>
+    <ChineseName>电体乐</ChineseName>
+    <Code>335</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Euro House</EnglishName>
+    <ChineseName>欧洲House</ChineseName>
+    <Code>336</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Glitch</EnglishName>
+    <ChineseName>脉冲</ChineseName>
+    <Code>337</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Grime</EnglishName>
+    <ChineseName>Grime</ChineseName>
+    <Code>338</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Hard House</EnglishName>
+    <ChineseName>硬House</ChineseName>
+    <Code>339</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Hard Trance</EnglishName>
+    <ChineseName>硬Trance</ChineseName>
+    <Code>340</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Hardstyle</EnglishName>
+    <ChineseName>Hardstyle</ChineseName>
+    <Code>341</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>IDM</EnglishName>
+    <ChineseName>智能舞曲</ChineseName>
+    <Code>342</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Industrial Techno</EnglishName>
+    <ChineseName>工业Techno</ChineseName>
+    <Code>343</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Leftfield</EnglishName>
+    <ChineseName>Leftfield</ChineseName>
+    <Code>344</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Power Electronics</EnglishName>
+    <ChineseName>能量电子</ChineseName>
+    <Code>345</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Progressive Trance</EnglishName>
+    <ChineseName>前卫Trance</ChineseName>
+    <Code>346</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Tech-House</EnglishName>
+    <ChineseName>Tech-House</ChineseName>
+    <Code>347</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Trance</EnglishName>
+    <ChineseName>Trance</ChineseName>
+    <Code>348</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Tribal House</EnglishName>
+    <ChineseName>部落House</ChineseName>
+    <Code>349</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>UK Garage/2-Step</EnglishName>
+    <ChineseName>UK Garage/2-Step</ChineseName>
+    <Code>350</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Etc</EnglishName>
+    <ChineseName>实验 / 前卫 / 其它</ChineseName>
+    <Code>4</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Concrete</EnglishName>
+    <ChineseName>具象</ChineseName>
+    <Code>401</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Holiday</EnglishName>
+    <ChineseName>节日音乐</ChineseName>
+    <Code>402</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Non-Music/Spoken Word</EnglishName>
+    <ChineseName>无乐</ChineseName>
+    <Code>403</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Religion</EnglishName>
+    <ChineseName>宗教音乐</ChineseName>
+    <Code>404</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>戏曲</EnglishName>
+    <ChineseName>戏曲</ChineseName>
+    <Code>405</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Experimental</EnglishName>
+    <ChineseName>实验</ChineseName>
+    <Code>406</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Noise</EnglishName>
+    <ChineseName>噪音</ChineseName>
+    <Code>407</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Post-Modern</EnglishName>
+    <ChineseName>后现代</ChineseName>
+    <Code>408</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Soundtrack</EnglishName>
+    <ChineseName>原声</ChineseName>
+    <Code>409</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>相声/评书</EnglishName>
+    <ChineseName>相声/评书</ChineseName>
+    <Code>410</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Instruments</EnglishName>
+    <ChineseName>器乐</ChineseName>
+    <Code>5</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Chinese Instruments</EnglishName>
+    <ChineseName>中国器乐</ChineseName>
+    <Code>501</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Drum</EnglishName>
+    <ChineseName>鼓</ChineseName>
+    <Code>502</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Harp</EnglishName>
+    <ChineseName>竖琴</ChineseName>
+    <Code>503</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Orchestral Pop</EnglishName>
+    <ChineseName>管弦乐流行</ChineseName>
+    <Code>504</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Sax</EnglishName>
+    <ChineseName>萨克斯</ChineseName>
+    <Code>505</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Other</EnglishName>
+    <ChineseName>其它乐器</ChineseName>
+    <Code>506</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Contemporary Instruments</EnglishName>
+    <ChineseName>当代器乐</ChineseName>
+    <Code>507</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Guitar</EnglishName>
+    <ChineseName>吉他</ChineseName>
+    <Code>508</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Instruments</EnglishName>
+    <ChineseName>器乐</ChineseName>
+    <Code>509</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Piano</EnglishName>
+    <ChineseName>钢琴</ChineseName>
+    <Code>510</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Violin</EnglishName>
+    <ChineseName>小提琴</ChineseName>
+    <Code>511</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Jazz</EnglishName>
+    <ChineseName>爵士音乐</ChineseName>
+    <Code>6</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Avantgarde</EnglishName>
+    <ChineseName>前卫爵士</ChineseName>
+    <Code>601</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Big Band</EnglishName>
+    <ChineseName>大乐队</ChineseName>
+    <Code>602</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Contemporary Jazz</EnglishName>
+    <ChineseName>当代爵士</ChineseName>
+    <Code>603</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Crossover Jazz</EnglishName>
+    <ChineseName>混合爵士</ChineseName>
+    <Code>604</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Free Jazz</EnglishName>
+    <ChineseName>自由爵士</ChineseName>
+    <Code>605</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Hard Bop</EnglishName>
+    <ChineseName>硬波普</ChineseName>
+    <Code>606</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Jazz</EnglishName>
+    <ChineseName>爵士</ChineseName>
+    <Code>607</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Jazz Pop</EnglishName>
+    <ChineseName>爵士流行</ChineseName>
+    <Code>608</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Modal</EnglishName>
+    <ChineseName>Modal</ChineseName>
+    <Code>609</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Ragtime</EnglishName>
+    <ChineseName>Ragtime</ChineseName>
+    <Code>610</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Soul Jazz</EnglishName>
+    <ChineseName>灵魂爵士</ChineseName>
+    <Code>611</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Vocal Jazz</EnglishName>
+    <ChineseName>Vocal Jazz</ChineseName>
+    <Code>612</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Ballads/Standards</EnglishName>
+    <ChineseName>抒情歌曲</ChineseName>
+    <Code>613</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Bop</EnglishName>
+    <ChineseName>波普</ChineseName>
+    <Code>614</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Cool Jazz</EnglishName>
+    <ChineseName>凉爵士</ChineseName>
+    <Code>615</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Easy Listening</EnglishName>
+    <ChineseName>轻松音乐</ChineseName>
+    <Code>616</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Fusion</EnglishName>
+    <ChineseName>融合</ChineseName>
+    <Code>617</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Improvisation</EnglishName>
+    <ChineseName>即兴</ChineseName>
+    <Code>618</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Jazz Funk</EnglishName>
+    <ChineseName>爵士放客</ChineseName>
+    <Code>619</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Latin Jazz</EnglishName>
+    <ChineseName>拉丁爵士</ChineseName>
+    <Code>620</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Post-Bop</EnglishName>
+    <ChineseName>后波普</ChineseName>
+    <Code>621</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Smooth Jazz</EnglishName>
+    <ChineseName>轻松爵士</ChineseName>
+    <Code>622</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Swing</EnglishName>
+    <ChineseName>摇摆</ChineseName>
+    <Code>623</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Latin/Reggae</EnglishName>
+    <ChineseName>拉丁/雷鬼</ChineseName>
+    <Code>7</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Bossa Nova</EnglishName>
+    <ChineseName>Bossa Nova</ChineseName>
+    <Code>701</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Dancehall</EnglishName>
+    <ChineseName>Dancehall</ChineseName>
+    <Code>702</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>MPB</EnglishName>
+    <ChineseName>MPB</ChineseName>
+    <Code>703</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Reggae</EnglishName>
+    <ChineseName>雷鬼</ChineseName>
+    <Code>704</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Samba</EnglishName>
+    <ChineseName>桑巴</ChineseName>
+    <Code>705</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Soca/Calypso</EnglishName>
+    <ChineseName>索卡</ChineseName>
+    <Code>706</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Tropical</EnglishName>
+    <ChineseName>加勒比热带音乐</ChineseName>
+    <Code>707</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Cha-Cha</EnglishName>
+    <ChineseName>恰恰</ChineseName>
+    <Code>708</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Mambo</EnglishName>
+    <ChineseName>曼博</ChineseName>
+    <Code>709</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Nueva canción</EnglishName>
+    <ChineseName>Nueva canción</ChineseName>
+    <Code>710</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Salsa</EnglishName>
+    <ChineseName>萨尔萨</ChineseName>
+    <Code>711</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Ska</EnglishName>
+    <ChineseName>斯卡</ChineseName>
+    <Code>712</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Tango</EnglishName>
+    <ChineseName>探戈</ChineseName>
+    <Code>713</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Pop/Vocal</EnglishName>
+    <ChineseName>流行音乐</ChineseName>
+    <Code>8</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Baroque Pop</EnglishName>
+    <ChineseName>巴洛克流行</ChineseName>
+    <Code>801</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Chamber Pop</EnglishName>
+    <ChineseName>室内流行</ChineseName>
+    <Code>802</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>C-Pop/Vocal</EnglishName>
+    <ChineseName>中文流行/声乐</ChineseName>
+    <Code>803</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>J-Pop/Vocal</EnglishName>
+    <ChineseName>日文流行/声乐</ChineseName>
+    <Code>804</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Latin Pop/Vocal</EnglishName>
+    <ChineseName>拉丁流行/声乐</ChineseName>
+    <Code>805</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Traditional Pop</EnglishName>
+    <ChineseName>传统流行</ChineseName>
+    <Code>806</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Brill Building Pop</EnglishName>
+    <ChineseName>布瑞尔大厦流行</ChineseName>
+    <Code>807</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Chanson/French Pop</EnglishName>
+    <ChineseName>香颂/法国流行</ChineseName>
+    <Code>808</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Indie Pop</EnglishName>
+    <ChineseName>独立流行</ChineseName>
+    <Code>809</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>K-Pop/Vocal</EnglishName>
+    <ChineseName>韩文流行/声乐</ChineseName>
+    <Code>810</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Pop/Vocal</EnglishName>
+    <ChineseName>西方流行/声乐</ChineseName>
+    <Code>811</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>R&amp;B / Soul / Blues / Gospel</EnglishName>
+    <ChineseName>R&amp;B / Soul / Blues / Gospel</ChineseName>
+    <Code>9</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Blue-Eyed Soul</EnglishName>
+    <ChineseName>Blue-Eyed Soul</ChineseName>
+    <Code>901</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>CCM</EnglishName>
+    <ChineseName>当代基督教音乐</ChineseName>
+    <Code>902</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Contemporary Blues</EnglishName>
+    <ChineseName>当代布鲁斯</ChineseName>
+    <Code>903</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Detroit Blues</EnglishName>
+    <ChineseName>底特律布鲁斯</ChineseName>
+    <Code>904</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Electric Blues</EnglishName>
+    <ChineseName>电子布鲁斯</ChineseName>
+    <Code>905</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Gospel</EnglishName>
+    <ChineseName>福音</ChineseName>
+    <Code>906</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>R&amp;B</EnglishName>
+    <ChineseName>节奏布鲁斯</ChineseName>
+    <Code>907</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Smooth Soul</EnglishName>
+    <ChineseName>轻松灵歌</ChineseName>
+    <Code>908</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Soul-Blues</EnglishName>
+    <ChineseName>灵魂布鲁斯</ChineseName>
+    <Code>909</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Blues</EnglishName>
+    <ChineseName>布鲁斯</ChineseName>
+    <Code>910</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Chicago Blues</EnglishName>
+    <ChineseName>芝加哥布鲁斯</ChineseName>
+    <Code>911</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Delta Blues</EnglishName>
+    <ChineseName>三角洲布鲁斯</ChineseName>
+    <Code>912</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Doo Wop</EnglishName>
+    <ChineseName>街头派节奏布鲁斯</ChineseName>
+    <Code>913</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Funk</EnglishName>
+    <ChineseName>放客</ChineseName>
+    <Code>914</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Quiet Storm</EnglishName>
+    <ChineseName>Quiet Storm</ChineseName>
+    <Code>915</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Retro-Soul </EnglishName>
+    <ChineseName>复古灵歌</ChineseName>
+    <Code>916</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Soul</EnglishName>
+    <ChineseName>灵歌</ChineseName>
+    <Code>917</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Urban</EnglishName>
+    <ChineseName>Urban</ChineseName>
+    <Code>918</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Rap / Hip-Hop</EnglishName>
+    <ChineseName>说唱音乐</ChineseName>
+    <Code>10</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Alternative Rap</EnglishName>
+    <ChineseName>另类说唱</ChineseName>
+    <Code>1001</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Dirty Rap</EnglishName>
+    <ChineseName>脏说</ChineseName>
+    <Code>1002</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Foreign Language Rap</EnglishName>
+    <ChineseName>外语说唱</ChineseName>
+    <Code>1003</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Gangsta/Thug Rap</EnglishName>
+    <ChineseName>匪帮</ChineseName>
+    <Code>1004</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Go-Go</EnglishName>
+    <ChineseName>Go-Go</ChineseName>
+    <Code>1005</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Hardcore Rap</EnglishName>
+    <ChineseName>硬核说唱</ChineseName>
+    <Code>1006</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Jazz Rap</EnglishName>
+    <ChineseName>爵士说唱</ChineseName>
+    <Code>1007</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Midwest Rap</EnglishName>
+    <ChineseName>中西部说唱</ChineseName>
+    <Code>1008</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Political Rap</EnglishName>
+    <ChineseName>政治说唱</ChineseName>
+    <Code>1009</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Southern Rap</EnglishName>
+    <ChineseName>南部说唱</ChineseName>
+    <Code>1010</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>West Coast Rap</EnglishName>
+    <ChineseName>西海岸说唱</ChineseName>
+    <Code>1011</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Christian Rap</EnglishName>
+    <ChineseName>基督教说唱</ChineseName>
+    <Code>1012</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>East Coast Rap</EnglishName>
+    <ChineseName>东海岸说唱</ChineseName>
+    <Code>1013</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Freestyle Rap</EnglishName>
+    <ChineseName>自由说唱</ChineseName>
+    <Code>1014</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>G-Funk</EnglishName>
+    <ChineseName>G-Funk</ChineseName>
+    <Code>1015</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Golden Age</EnglishName>
+    <ChineseName>Golden Age</ChineseName>
+    <Code>1016</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Hip-Hop</EnglishName>
+    <ChineseName>Hip-Hop</ChineseName>
+    <Code>1017</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Latin Rap</EnglishName>
+    <ChineseName>拉丁说唱</ChineseName>
+    <Code>1018</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Old School Rap</EnglishName>
+    <ChineseName>老派说唱</ChineseName>
+    <Code>1019</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Pop-Rap</EnglishName>
+    <ChineseName>流行说唱</ChineseName>
+    <Code>1020</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Underground Rap</EnglishName>
+    <ChineseName>地下说唱</ChineseName>
+    <Code>1021</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Rock</EnglishName>
+    <ChineseName>摇滚音乐</ChineseName>
+    <Code>11</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Alternative Metal</EnglishName>
+    <ChineseName>另类金属</ChineseName>
+    <Code>1101</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Anarchist Punk</EnglishName>
+    <ChineseName>无政府主义朋克</ChineseName>
+    <Code>1102</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Blues/Boogie Rock</EnglishName>
+    <ChineseName>布鲁斯摇滚</ChineseName>
+    <Code>1103</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>British Invasion</EnglishName>
+    <ChineseName>英伦入侵</ChineseName>
+    <Code>1104</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>British Punk</EnglishName>
+    <ChineseName>英式朋克</ChineseName>
+    <Code>1105</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Christian Rock/Metal</EnglishName>
+    <ChineseName>基督教摇滚/金属</ChineseName>
+    <Code>1106</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Comedy Rock</EnglishName>
+    <ChineseName>喜剧摇滚</ChineseName>
+    <Code>1107</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Death Metal</EnglishName>
+    <ChineseName>死亡金属</ChineseName>
+    <Code>1108</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Dream Pop</EnglishName>
+    <ChineseName>梦幻流行</ChineseName>
+    <Code>1109</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Experimental Rock </EnglishName>
+    <ChineseName>实验摇滚</ChineseName>
+    <Code>1110</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Funk Metal</EnglishName>
+    <ChineseName>放克金属</ChineseName>
+    <Code>1111</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Garage Rock</EnglishName>
+    <ChineseName>Garage摇滚</ChineseName>
+    <Code>1112</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Gothic Metal</EnglishName>
+    <ChineseName>哥特金属</ChineseName>
+    <Code>1113</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Grindcore</EnglishName>
+    <ChineseName>碾核</ChineseName>
+    <Code>1114</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Guitar Virtuoso</EnglishName>
+    <ChineseName>吉他大师</ChineseName>
+    <Code>1115</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Hair Metal</EnglishName>
+    <ChineseName>微金属</ChineseName>
+    <Code>1116</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Hardcore Punk</EnglishName>
+    <ChineseName>硬核朋客</ChineseName>
+    <Code>1117</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Indie Rock/Shoegazing</EnglishName>
+    <ChineseName>独立摇滚/自赏</ChineseName>
+    <Code>1118</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Instruments Rock</EnglishName>
+    <ChineseName>器乐摇滚</ChineseName>
+    <Code>1119</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Jazz Rock</EnglishName>
+    <ChineseName>爵士摇滚</ChineseName>
+    <Code>1120</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Kraut Rock</EnglishName>
+    <ChineseName>德国摇滚</ChineseName>
+    <Code>1121</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Lo-Fi</EnglishName>
+    <ChineseName>低保真</ChineseName>
+    <Code>1122</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Mod</EnglishName>
+    <ChineseName>Mod</ChineseName>
+    <Code>1123</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Neo-Prog</EnglishName>
+    <ChineseName>新前卫摇滚</ChineseName>
+    <Code>1124</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>New York Punk</EnglishName>
+    <ChineseName>纽约朋克</ChineseName>
+    <Code>1125</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Oi!</EnglishName>
+    <ChineseName>Oi!</ChineseName>
+    <Code>1126</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Pop Metal</EnglishName>
+    <ChineseName>流行金属</ChineseName>
+    <Code>1127</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Pop Rock</EnglishName>
+    <ChineseName>流行摇滚</ChineseName>
+    <Code>1128</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Post-Hardcore</EnglishName>
+    <ChineseName>后硬核</ChineseName>
+    <Code>1129</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Post-Rock </EnglishName>
+    <ChineseName>后摇滚</ChineseName>
+    <Code>1130</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Progressive Metal</EnglishName>
+    <ChineseName>前卫金属</ChineseName>
+    <Code>1131</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Proto-Punk</EnglishName>
+    <ChineseName>原型朋克</ChineseName>
+    <Code>1132</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Psychobilly</EnglishName>
+    <ChineseName>Psychobilly</ChineseName>
+    <Code>1133</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Punk Blues</EnglishName>
+    <ChineseName>朋克布鲁斯</ChineseName>
+    <Code>1134</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Punk Revival</EnglishName>
+    <ChineseName>复兴朋克</ChineseName>
+    <Code>1135</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Rap Rock/Metal</EnglishName>
+    <ChineseName>说唱摇滚/金属</ChineseName>
+    <Code>1136</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Riot Grrrl</EnglishName>
+    <ChineseName>暴女</ChineseName>
+    <Code>1137</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Rockabilly</EnglishName>
+    <ChineseName>山地摇滚</ChineseName>
+    <Code>1138</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Scandinavian/Viking Metal</EnglishName>
+    <ChineseName>斯堪的纳维亚/维京金属</ChineseName>
+    <Code>1139</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Ska Punk</EnglishName>
+    <ChineseName>斯卡朋克</ChineseName>
+    <Code>1140</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Skate Punk</EnglishName>
+    <ChineseName>滑板朋克</ChineseName>
+    <Code>1141</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Sludge Metal</EnglishName>
+    <ChineseName>泥浆金属</ChineseName>
+    <Code>1142</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Sophisti-Pop</EnglishName>
+    <ChineseName>Sophisti-Pop</ChineseName>
+    <Code>1143</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Speed Metal</EnglishName>
+    <ChineseName>速度金属</ChineseName>
+    <Code>1144</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Sunshine Pop</EnglishName>
+    <ChineseName>阳光流行</ChineseName>
+    <Code>1145</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Symphonic Black Metal</EnglishName>
+    <ChineseName>交响黑金</ChineseName>
+    <Code>1146</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Thrash Metal</EnglishName>
+    <ChineseName>鞭击/激流金属</ChineseName>
+    <Code>1147</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Alternative Rock</EnglishName>
+    <ChineseName>另类摇滚</ChineseName>
+    <Code>1148</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Black Metal</EnglishName>
+    <ChineseName>黑金属</ChineseName>
+    <Code>1149</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>British Blues</EnglishName>
+    <ChineseName>英式布鲁斯</ChineseName>
+    <Code>1150</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>British Metal</EnglishName>
+    <ChineseName>英式金属</ChineseName>
+    <Code>1151</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Britpop </EnglishName>
+    <ChineseName>英式摇滚</ChineseName>
+    <Code>1152</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>College Rock</EnglishName>
+    <ChineseName>学院派</ChineseName>
+    <Code>1153</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Dark Wave</EnglishName>
+    <ChineseName>黑潮</ChineseName>
+    <Code>1154</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Doom Metal</EnglishName>
+    <ChineseName>毁灭金属</ChineseName>
+    <Code>1155</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Emo</EnglishName>
+    <ChineseName>情绪摇滚</ChineseName>
+    <Code>1156</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Folk Rock</EnglishName>
+    <ChineseName>民谣摇滚</ChineseName>
+    <Code>1157</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Garage Punk</EnglishName>
+    <ChineseName>Garage Punk</ChineseName>
+    <Code>1158</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Glam Rock</EnglishName>
+    <ChineseName>华丽摇滚</ChineseName>
+    <Code>1159</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Gothic Rock</EnglishName>
+    <ChineseName>哥特摇滚</ChineseName>
+    <Code>1160</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Grunge</EnglishName>
+    <ChineseName>Grunge</ChineseName>
+    <Code>1161</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Gypsy Punk</EnglishName>
+    <ChineseName>吉普赛朋客</ChineseName>
+    <Code>1162</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Hard Rock</EnglishName>
+    <ChineseName>硬摇滚</ChineseName>
+    <Code>1163</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Heavy Metal</EnglishName>
+    <ChineseName>重金属</ChineseName>
+    <Code>1164</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Industrial Rock/Metal</EnglishName>
+    <ChineseName>工业摇滚/金属</ChineseName>
+    <Code>1165</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Jam Bands</EnglishName>
+    <ChineseName>Jam Bands</ChineseName>
+    <Code>1166</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>J-Rock/Mixture</EnglishName>
+    <ChineseName>日本摇滚/混合</ChineseName>
+    <Code>1167</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>K-Rock</EnglishName>
+    <ChineseName>韩国摇滚</ChineseName>
+    <Code>1168</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Math Rock</EnglishName>
+    <ChineseName>数学摇滚</ChineseName>
+    <Code>1169</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Neo-Classical Metal</EnglishName>
+    <ChineseName>新古典金属</ChineseName>
+    <Code>1170</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>New Wave</EnglishName>
+    <ChineseName>新浪潮</ChineseName>
+    <Code>1171</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Noise Rock</EnglishName>
+    <ChineseName>噪音摇滚</ChineseName>
+    <Code>1172</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Parody</EnglishName>
+    <ChineseName>Parody</ChineseName>
+    <Code>1173</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Pop Punk</EnglishName>
+    <ChineseName>流行朋克</ChineseName>
+    <Code>1174</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Post-Grunge</EnglishName>
+    <ChineseName>后Grunge</ChineseName>
+    <Code>1175</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Post-Punk</EnglishName>
+    <ChineseName>后朋克</ChineseName>
+    <Code>1176</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Power Metal</EnglishName>
+    <ChineseName>能量金属</ChineseName>
+    <Code>1177</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Progressive Rock/Art Rock</EnglishName>
+    <ChineseName>前卫摇滚/艺术摇滚</ChineseName>
+    <Code>1178</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Psychedelic/Acid Rock</EnglishName>
+    <ChineseName>迷幻摇滚</ChineseName>
+    <Code>1179</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Punk</EnglishName>
+    <ChineseName>老派朋克</ChineseName>
+    <Code>1180</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Punk Metal</EnglishName>
+    <ChineseName>朋克金属</ChineseName>
+    <Code>1181</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Queercore</EnglishName>
+    <ChineseName>同性恋核</ChineseName>
+    <Code>1182</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Retro-Rock</EnglishName>
+    <ChineseName>复古摇滚</ChineseName>
+    <Code>1183</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Rock &amp; Roll/Roots</EnglishName>
+    <ChineseName>Rock &amp; Roll/Roots</ChineseName>
+    <Code>1184</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Sadcore</EnglishName>
+    <ChineseName>悲伤核</ChineseName>
+    <Code>1185</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Screamo</EnglishName>
+    <ChineseName>情绪核</ChineseName>
+    <Code>1186</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Ska Revival</EnglishName>
+    <ChineseName>复兴斯卡</ChineseName>
+    <Code>1187</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Slowcore</EnglishName>
+    <ChineseName>慢核</ChineseName>
+    <Code>1188</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Soft Rock</EnglishName>
+    <ChineseName>轻柔摇滚</ChineseName>
+    <Code>1189</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Space Rock </EnglishName>
+    <ChineseName>太空摇滚</ChineseName>
+    <Code>1190</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Stoner Rock/Metal</EnglishName>
+    <ChineseName>石人摇滚/金属</ChineseName>
+    <Code>1191</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Surf</EnglishName>
+    <ChineseName>冲浪</ChineseName>
+    <Code>1192</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Symphonic Rock</EnglishName>
+    <ChineseName>交响摇滚</ChineseName>
+    <Code>1193</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Nazi-Black Metal</EnglishName>
+    <ChineseName>纳粹黑金属</ChineseName>
+    <Code>1194</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>World/Folk</EnglishName>
+    <ChineseName>世界音乐/民谣</ChineseName>
+    <Code>12</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>African Pop</EnglishName>
+    <ChineseName>非洲流行</ChineseName>
+    <Code>1201</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Celtic</EnglishName>
+    <ChineseName>凯尔特</ChineseName>
+    <Code>1202</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Enka/Trot </EnglishName>
+    <ChineseName>演歌/Trot</ChineseName>
+    <Code>1203</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Flamenco</EnglishName>
+    <ChineseName>弗拉门戈</ChineseName>
+    <Code>1204</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Gypsy</EnglishName>
+    <ChineseName>吉普赛音乐</ChineseName>
+    <Code>1205</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Jewish</EnglishName>
+    <ChineseName>犹太音乐</ChineseName>
+    <Code>1206</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Neo-Folk</EnglishName>
+    <ChineseName>新民谣</ChineseName>
+    <Code>1207</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Turkish</EnglishName>
+    <ChineseName>土耳其音乐</ChineseName>
+    <Code>1208</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Worldbeat</EnglishName>
+    <ChineseName>Worldbeat</ChineseName>
+    <Code>1209</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Anti-Folk</EnglishName>
+    <ChineseName>反传统民谣</ChineseName>
+    <Code>1210</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Cuban</EnglishName>
+    <ChineseName>古巴音乐</ChineseName>
+    <Code>1211</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Fado</EnglishName>
+    <ChineseName>命运歌</ChineseName>
+    <Code>1212</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Folk/Singer/Songwriter</EnglishName>
+    <ChineseName>民谣</ChineseName>
+    <Code>1213</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Indian</EnglishName>
+    <ChineseName>印第安音乐</ChineseName>
+    <Code>1214</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Mangolia</EnglishName>
+    <ChineseName>蒙古音乐</ChineseName>
+    <Code>1215</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>Political Folk</EnglishName>
+    <ChineseName>政治民谣</ChineseName>
+    <Code>1216</Code>
+  </MusicStyle>
+  <MusicStyle>
+    <EnglishName>World</EnglishName>
+    <ChineseName>世界音乐</ChineseName>
+    <Code>1217</Code>
+  </MusicStyle>
+</MusicStyles>
