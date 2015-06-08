@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using YueRen.Common.Config;
 using YueRen.Entity;
+using YueRen.Entity.User;
 
 namespace YueRen.IDAL.User
 {
@@ -60,5 +61,19 @@ namespace YueRen.IDAL.User
         /// <param name="types"></param>
         /// <returns></returns>
         public abstract List<int> GetUserInstumentType(List<int> types);
+
+        /// <summary>
+        /// 获取用户Token
+        /// </summary>
+        /// <param name="userId"></param>
+        public abstract UserToken GetUserToken(long userId);
+
+        /// <summary>
+        /// 验证用户信息
+        /// </summary>
+        /// <param name="userId"></param>
+        /// <param name="passWord"></param>
+        /// <returns></returns>
+        public abstract bool IsUserValid(long userId, string passWord);
     }
 }

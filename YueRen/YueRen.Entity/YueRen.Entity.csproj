@@ -60,6 +60,7 @@
     <Compile Include="User\MusicStylePreference.cs" />
     <Compile Include="User\PlayerInfo.cs" />
     <Compile Include="User\SchoolInsertInfo.cs" />
+    <Compile Include="User\UserToken.cs" />
     <Compile Include="User\WorkInsertInfo.cs" />
     <Compile Include="User\YueRenUserEntity.cs" />
     <Compile Include="UserLog.cs" />

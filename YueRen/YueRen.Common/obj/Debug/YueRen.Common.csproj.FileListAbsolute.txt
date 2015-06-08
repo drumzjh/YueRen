@@ -14,3 +14,11 @@ E:\YueRen\YueRen\YueRen.Common\bin\Debug\Snda.Qidian.Tools.Json.dll
 F:\MyProject\YueRen\YueRen.Common\bin\Debug\ChnCharInfo.dll
 F:\MyProject\YueRen\YueRen.Common\bin\Debug\Newtonsoft.Json.dll
 F:\MyProject\YueRen\YueRen.Common\bin\Debug\Snda.Qidian.Tools.Json.dll
+E:\MyProject\YueRen\YueRen\YueRen.Common\obj\Debug\YueRen.Common.csprojResolveAssemblyReference.cache
+E:\MyProject\YueRen\YueRen\YueRen.Common\obj\Debug\YueRen.Common.dll
+E:\MyProject\YueRen\YueRen\YueRen.Common\obj\Debug\YueRen.Common.pdb
+E:\MyProject\YueRen\YueRen\YueRen.Common\bin\Debug\YueRen.Common.dll
+E:\MyProject\YueRen\YueRen\YueRen.Common\bin\Debug\YueRen.Common.pdb
+E:\MyProject\YueRen\YueRen\YueRen.Common\bin\Debug\ChnCharInfo.dll
+E:\MyProject\YueRen\YueRen\YueRen.Common\bin\Debug\Newtonsoft.Json.dll
+E:\MyProject\YueRen\YueRen\YueRen.Common\bin\Debug\Snda.Qidian.Tools.Json.dll

@@ -40,6 +40,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User\SqlUserDao.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\YueRen.Entity\YueRen.Entity.csproj">
+      <Project>{56e3659f-044d-4d6c-b524-94a1ef33b2fc}</Project>
+      <Name>YueRen.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YueRen.IDAL\YueRen.IDAL.csproj">
+      <Project>{f8cb8ef9-0a85-4037-9cde-8ee737a6e701}</Project>
+      <Name>YueRen.IDAL</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

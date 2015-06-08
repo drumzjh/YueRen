@@ -10,17 +10,7 @@ namespace YueRen.Common.Config
     public partial class AppSetting
     {
         [XmlAttribute]
-        public string ClassConfigPath = @"C:\ClassProviderConfig.xml";
-
-        /// <summary>
-        /// 章节图片文件分发服务器
-        /// </summary>
-        /// <remarks>
-        /// 前后顺序一定要注意
-        /// </remarks>
-        [XmlAttribute]
-        public string ChapterImageNetFileTransferServer = "http://file1.qidian.com/,tcp://file1.qdintra.com:8085/FileServer;http://file2.qidian.com/,tcp://file2.qdintra.com:8086/FileServer";
-
+        public string ChapterImageNetFileTransferServer = "";
         /// <summary>
         /// 图像相关
         /// </summary>

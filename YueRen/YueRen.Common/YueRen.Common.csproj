@@ -86,6 +86,7 @@
     <Compile Include="Util\PinYin.cs" />
     <Compile Include="Util\SDMSMQ.cs" />
     <Compile Include="Util\SDSmtp.cs" />
+    <Compile Include="Util\SqlHelper.cs" />
     <Compile Include="Util\TimeConvert.cs" />
   </ItemGroup>
   <ItemGroup>
